@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-Homework # 2
+A responsive basic Portfolio.
